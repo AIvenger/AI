@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TF_Test", "TF_Test\TF_Test.pyproj", "{6A83B3A7-1ACF-4AA3-B347-720644B8F48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A83B3A7-1ACF-4AA3-B347-720644B8F48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A83B3A7-1ACF-4AA3-B347-720644B8F48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824E2585-6ED3-4AD4-B26C-F26A16AB849D}
+	EndGlobalSection
+EndGlobal
